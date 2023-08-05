@@ -10,13 +10,3 @@
     background-position: center;
     height: 100vh;
 }
-
-#icon {
-    font-weight: bolder;
-    width: fit-content;
-    margin-left: 90%;
-    font-size: 20px;
-}
-#icon i{
-    margin-top: 50%;
-}
